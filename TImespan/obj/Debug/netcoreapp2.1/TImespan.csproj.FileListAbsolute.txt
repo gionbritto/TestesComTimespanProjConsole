@@ -1,0 +1,11 @@
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TImespan.deps.json
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TImespan.runtimeconfig.json
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TImespan.runtimeconfig.dev.json
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TImespan.dll
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TImespan.pdb
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TImespan.csprojAssemblyReference.cache
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TImespan.csproj.CoreCompileInputs.cache
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TImespan.AssemblyInfoInputs.cache
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TImespan.AssemblyInfo.cs
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TImespan.dll
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TImespan.pdb

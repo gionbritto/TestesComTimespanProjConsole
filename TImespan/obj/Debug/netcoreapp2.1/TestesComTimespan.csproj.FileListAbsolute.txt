@@ -1,0 +1,10 @@
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TestesComTimespan.deps.json
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TestesComTimespan.runtimeconfig.json
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TestesComTimespan.runtimeconfig.dev.json
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TestesComTimespan.dll
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\bin\Debug\netcoreapp2.1\TestesComTimespan.pdb
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TestesComTimespan.csproj.CoreCompileInputs.cache
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TestesComTimespan.AssemblyInfoInputs.cache
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TestesComTimespan.AssemblyInfo.cs
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TestesComTimespan.dll
+C:\Users\giovanne.nascimento\source\repos\TImespan\TImespan\obj\Debug\netcoreapp2.1\TestesComTimespan.pdb
